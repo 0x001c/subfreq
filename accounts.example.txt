@@ -1,0 +1,6 @@
+# accounts.example.txt
+# Format: email:password:proxy_ip:proxy_port:proxy_username:proxy_password
+# Rename this file to accounts.txt or fill accounts.txt using this format.
+
+user1@example.com:Password123!:192.168.1.100:8080:proxy_user:proxy_pass
+user2@example.com:AnotherSecurePass456:10.0.0.50:3128:proxy_user:proxy_pass

@@ -1,0 +1,9 @@
+# proxies.example.txt
+# Supported proxy formats:
+# 1) IP:PORT:USERNAME:PASSWORD
+# 2) IP:PORT
+# 3) http://USERNAME:PASSWORD@IP:PORT
+
+192.168.1.100:8080:proxy_user:proxy_pass
+10.0.0.50:3128
+http://user:pass@192.168.2.200:8080

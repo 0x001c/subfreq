@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Credentials & Runtime Data (CRITICAL - DO NOT COMMIT)
+accounts.txt
+accounts.json
+proxies.txt
+cookies/
+*.cookie
+*.cookies
+
+# Chrome Profiles & Session Data
+chrome_profiles/
+chrome_data/
+user_data/
+profile_*
+
+# Environments
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+env/
+ENV/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs & Diagnostics
+*.log
+logs/
+debug/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
